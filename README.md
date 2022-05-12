@@ -1,4 +1,4 @@
-# jpa-struts2-jasper
+# Reporting app spring JPA
 Struts 2 + JPA + plugin jasperreports 5.6.1
 
 ## Description
